@@ -1,4 +1,4 @@
-# Mini-gold-3d
+# Mini-golf-3d
 A small mini gold game developed using panda3d
 
 
